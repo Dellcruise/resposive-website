@@ -1,0 +1,134 @@
+
+#title{
+	padding-bottom: 100px;
+
+
+}
+ .title-image{
+	background-image: url("image/ccooddee.jpg");
+	background-position: center;
+	background-size: cover;
+	height: 450px;
+	width: 100%;
+	 position: absolute;
+	 
+
+
+ }
+ h3{
+	 text-align: center;
+ }
+
+ h4{
+	 padding: 7% ;
+
+ }
+  
+ .title-h{
+	 font-family: "Montserrat-Bold";
+	 position: relative;
+	 color: #fff;
+	 text-align: center;
+	 padding:6% 25% 0;
+	 line-height: 1.5;
+	 
+	 
+ }
+
+ .title-p{
+	 font:  sans-serif;
+	 font-weight: 4;
+	position: relative;
+	color: #fff;
+	text-align: center;
+	padding: 2% 25% 1%;
+	left: 1.5;
+
+
+ }
+
+  
+.read-me-btn{
+	margin-left: 40%;
+	padding: 1% 40px 1% 40px;
+		 
+	
+}
+
+
+
+#features{
+	text-align: center;
+	background-color: #BEC2CB;
+	position: relative;
+	padding: 7%;
+}
+
+
+ #Grid{
+	  
+	 padding: 30px 200px 30px 200px;	 
+	 background-color: #333;
+	 text-align: center;
+	 
+ }
+
+.grid-para{
+	padding: 3% 10%;
+}   
+  
+
+#enquiries{
+	text-align: center;
+	padding: 5%;
+	 
+}
+ 
+
+.enquiries-para{
+	padding: 3% 20% 3%;
+}
+
+.box-1{
+	text-align: center;
+	color: #fff;
+	width: 613px;
+	height: 300px;
+	background-color: #3FA9F5;
+	box-sizing: content-box;
+	position:absolute;
+	left: 1px;
+	 
+	
+	
+	 
+	 
+}
+
+.box-2{
+	text-align: center;
+	color: #fff;
+	width: 613px;
+	height: 300px;
+	background-color: #333333;
+	box-sizing:content-box;
+	position: relative;
+	left: 613px;
+	top: 0;
+	
+	 	 
+}
+
+.contact-header{
+	padding: 6%;
+}
+ 
+#footer{
+	background-color: #000;
+    color: #fff;
+    padding: 20px;
+   position: relative;
+   
+}
+
+ 
